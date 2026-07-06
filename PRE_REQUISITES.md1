@@ -1,0 +1,17 @@
+# EduGenie Project Pre-Requisites
+
+## Environment Setup Completed
+
+- Python 3.12.2 Installed
+- Virtual Environment Created and Activated
+- FastAPI Installed
+- Uvicorn Installed
+- Jinja2 Installed
+- Google Gemini AI SDK Installed
+- Visual Studio Code Configured
+
+## Verification
+
+The development environment was successfully configured and all required dependencies were installed for the EduGenie Learning Assistant project.
+
+Status: Completed ✅
